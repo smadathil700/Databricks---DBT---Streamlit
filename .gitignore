@@ -1,0 +1,10 @@
+.streamlit/streamlit
+.databricks/bundle/
+.databricks/.databricks.env
+.databricks/migration-config.json
+marketing_funnel_analytics/target/
+marketing_funnel_analytics/dbt_packages/
+marketing_funnel_analytics/logs/
+marketing_funnel_analytics/.user.yml
+marketing_funnel_analytics/profiles.yml
+.vscode/*

@@ -1,0 +1,16 @@
+version: 2
+models:
+  - name: stg_source
+    description: "Raw online shopping dataset."
+    columns:
+      - name: SessionID
+        tests: [not_null, unique]
+
+  - name: int_session_metrics
+    description: "Adds funnel step indicators per session."
+    columns:
+      - name: product_view
+        tests: [not_null]
+
+  - name: funnel_analysis
+    description: "Final funnel KPIs."

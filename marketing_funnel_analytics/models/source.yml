@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: default
+    database: workspace     # <- matches the catalog
+    schema: default         # <- matches the schema
+    tables:
+      - name: source_data   # <- the table name in Databricks
