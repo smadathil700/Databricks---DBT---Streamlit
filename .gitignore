@@ -9,3 +9,4 @@ marketing_funnel_analytics/.user.yml
 marketing_funnel_analytics/profiles.yml
 .vscode/*
 logs/*
+databricks.yml
