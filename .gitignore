@@ -1,4 +1,4 @@
-.streamlit/streamlit
+.streamlit/.streamlit
 .databricks/bundle/
 .databricks/.databricks.env
 .databricks/migration-config.json
@@ -10,3 +10,4 @@ marketing_funnel_analytics/profiles.yml
 .vscode/*
 logs/*
 databricks.yml
+images/
