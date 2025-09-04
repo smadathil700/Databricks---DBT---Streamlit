@@ -44,6 +44,10 @@ UCI Repository → Databricks → dbt → Streamlit Dashboard
   - Create marketing funnel analysis dashboard
 - **Output**: Interactive web-based dashboard
 
+![Alt text](images/screenshot1.png)
+![Alt text](images/screenshot2.png)
+![Alt text](images/screenshot3.png)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
